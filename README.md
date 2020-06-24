@@ -8,3 +8,6 @@ This is my Bachelor's thesis, written in German. I may provide a translated vers
 
 Docker is required to compile the thesis. Run `./build.sh` to compile the thesis.
 The result will be saved in the output folder.
+
+# Brians Readme Change
+This is a change.
